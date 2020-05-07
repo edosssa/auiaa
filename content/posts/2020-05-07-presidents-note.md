@@ -3,7 +3,7 @@ template: post
 title: President's Note
 slug: president-note
 draft: false
-date: 2020-05-07T03:38:17.274Z
+date: 2020-04-02T03:38:17.274Z
 description: On behalf of the Executive Council of the Augustine University
   Ilara Alumni Association, I present the first edition of our quarterly
   publication.
