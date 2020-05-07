@@ -9,9 +9,7 @@ description: Apart from promoting peace, reconciliation, rehabilitation,
   the individual person.
 category: ALUMNI NEWS
 tags:
-  - NYSC
-  - AUI
-  - ALUMNI
+  - nysc AUI alumni
 ---
 Apart from promoting peace, reconciliation, rehabilitation, reconstruction and national unity, the NYSC also contributes to the growth of the individual person. From the 3-week orientation camp to the community development service (CDS) to the SAED (Skills Acquisition and Entrepreneurship Development) scheme, the National Youth Service Corps is so committed to the development of Nigerian youths and the nation at large.  
 
