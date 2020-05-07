@@ -1,16 +1,14 @@
 ---
 template: post
 title: "COVID-19: Myths & Facts"
-slug: COVID-19-MYTHS-FACTS
+slug: covid19-myths-and-facts
 draft: true
 date: 2020-05-07T10:08:54.939Z
 description: False rumors about the origin, symptoms and prevention of COVID-19
   have been circulating for quite a while...
 category: SAFETY
 tags:
-  - COVID-19
-  - SAFETY
-  - AUIAA
+  - covid-19
 ---
 False rumors about the origin, symptoms and prevention of COVID-19 have been circulating for quite a while and these false claims have put so many lives in danger.  
 
