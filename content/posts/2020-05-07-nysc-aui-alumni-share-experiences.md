@@ -6,7 +6,7 @@ draft: false
 date: 2020-05-07T10:16:37.510Z
 description: Apart from promoting peace, reconciliation, rehabilitation,
   reconstruction and national unity, the NYSC also contributes to the growth of
-  the individual person.
+  the individual person...
 category: ALUMNI NEWS
 tags:
   - nysc AUI alumni
