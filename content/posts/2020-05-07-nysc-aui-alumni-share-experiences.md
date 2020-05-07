@@ -1,7 +1,7 @@
 ---
 template: post
-title: "NYSC: AUI Alumni Share Experiences "
-slug: "NYSC-AUI-Alumni-Share-Experiences "
+title: "NYSC And Its Effect On AUI Alumni "
+slug: "NYSC-And-Its-Effect-On-AUI-Alumni "
 draft: true
 date: 2020-05-07T10:16:37.510Z
 description: Apart from promoting peace, reconciliation, rehabilitation,
