@@ -9,7 +9,7 @@ description: On behalf of the Executive Council of the Augustine University
   publication.
 category: intro
 tags:
-  - info
+  - intro
 ---
 On behalf of the Executive Council of the Augustine University Ilara Alumni Association, I present the first edition of our quarterly publication. 
 
