@@ -1,6 +1,6 @@
 ---
 template: post
-title: Cheers to a New Beginning
+title: Cheers to a New Beginning 🎉
 slug: cheers-to-a-new-beginning
 draft: false
 date: 2020-04-01T03:23:08.186Z
