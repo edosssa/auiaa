@@ -3,7 +3,7 @@ template: post
 title: Cheers to a New Beginning 🎉
 slug: cheers-to-a-new-beginning
 draft: false
-date: 2020-04-01T03:23:08.186Z
+date: 2020-04-02T03:23:08.186Z
 description: |-
   Dear Reader, 
   It gives me so much joy to share the very first AUIAA publication with you...
