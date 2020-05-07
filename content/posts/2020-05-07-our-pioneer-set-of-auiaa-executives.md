@@ -2,7 +2,7 @@
 template: post
 title: Our Pioneer Set Of AUIAA Executives
 slug: Pioneer-AUIAA-Executives
-draft: true
+draft: false
 date: 2020-05-07T11:25:52.887Z
 description: Meet the AUIAA Executive Council...
 category: "ALUMNI NEWS "
