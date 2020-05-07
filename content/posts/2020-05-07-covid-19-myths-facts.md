@@ -2,7 +2,7 @@
 template: post
 title: "COVID-19: Myths & Facts"
 slug: covid19-myths-and-facts
-draft: true
+draft: false
 date: 2020-05-07T10:08:54.939Z
 description: False rumors about the origin, symptoms and prevention of COVID-19
   have been circulating for quite a while...
