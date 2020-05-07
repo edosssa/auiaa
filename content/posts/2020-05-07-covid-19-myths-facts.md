@@ -1,6 +1,6 @@
 ---
 template: post
-title: "COVID-19: MYTHS & FACTS"
+title: "COVID-19: Myths & Facts"
 slug: COVID-19-MYTHS-FACTS
 draft: true
 date: 2020-05-07T10:08:54.939Z
