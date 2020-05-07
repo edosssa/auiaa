@@ -20,7 +20,7 @@ One of the African countries hit by this virus was Nigeria. On the 27th of Febru
 
 Since then, the number of confirmed cases has been on the rise with Lagos hosting over half of the infected persons.
 
-![](/media/img_20200507_115713-1-.jpg)
+![](/media/img_20200507_183003-1-.jpg)
 
 President Muhammadu Buhari declared a 2-week nationwide lockdown beginning from March 30th forcing markets, schools, corporate organizations and even places of worship to halt operations. 
 
