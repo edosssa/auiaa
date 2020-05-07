@@ -1,8 +1,8 @@
 ---
 template: post
 title: "NYSC And Its Effect On AUI Alumni "
-slug: "NYSC-Effect-AUI-Alumni "
-draft: true
+slug: "nysc-effect-AUI-alumni "
+draft: false
 date: 2020-05-07T10:16:37.510Z
 description: Apart from promoting peace, reconciliation, rehabilitation,
   reconstruction and national unity, the NYSC also contributes to the growth of
