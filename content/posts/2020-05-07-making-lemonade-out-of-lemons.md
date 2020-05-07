@@ -1,7 +1,7 @@
 ---
 template: post
 title: Making Lemonade Out Of Lemons
-slug: Making-Lemonade-Out-Of-Lemons
+slug: making-lemonade-out-of-lemons
 draft: false
 date: 2020-05-07T10:46:19.924Z
 description: No one ever thought that the first quarter of 2020 would be
