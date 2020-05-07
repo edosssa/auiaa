@@ -4,14 +4,13 @@ title: Learning From This Pandemic
 slug: learning-from-this-pandemic
 draft: false
 date: 2020-04-04T09:23:51.294Z
-description: >-
-  As at when I was writing this, the Federal Government imposed lockdown was in
-  its fourth
-
-  week; four weeks of pain, fear, rage, uncertainty and social distancing, of course.
-category: safety
+description: As at when I was writing this, the Federal Government imposed
+  lockdown was in its fourth week...
+category: SAFETY
 tags:
-  - covid-19 safety
+  - LESSONS
+  - COVID-19
+  - SAFETY
 ---
 As at when I was writing this, the Federal Government imposed lockdown was in its fourth week; four weeks of pain, fear, rage, uncertainty and social distancing, of course. 
 
