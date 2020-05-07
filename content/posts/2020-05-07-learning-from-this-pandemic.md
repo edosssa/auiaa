@@ -17,8 +17,6 @@ As at when I was writing this, the Federal Government imposed lockdown was in it
 
 The number of confirmed COVID-19 cases just topped 3 million globally, and that of Nigeria recently surpassed the 1000 mark. Living in such an abnormal time for many, especially those on the front lines, the glaring question now is ‘what is the meaning of life and what does the future hold for humanity?’
 
-
-
 ![covid-19](/media/image-000.jpg "covid-19")
 
 As a matter of fact, no one has been left untouched by the pandemic. This virus crisis has taught humanity, as funny as it sounds, an important lesson about interdependency. Everyone is interconnected with and interdependent on one another in so many ways. In other words, my health and well-being are dependent on your health and well-being; the same principle applies beyond borders and regions. Indeed, our collective health defines the state of businesses and economies within and across nations.
@@ -35,4 +33,4 @@ It was during the 2008 financial crisis that the former Chairman of US Federal R
 
 It is really important, therefore, to note during this pandemic that “the world changes too fast, and too many accidents and unpredictable events occur. It will pay, therefore, to be creative and open-minded as you search for and consider professional opportunities. Look most carefully at those options that will give you a chance to learn new things, explore new areas, and grow as a person.”
 
-***\- Baba Samira***
+***\- Chude Okechukwu (CSC '19)***
