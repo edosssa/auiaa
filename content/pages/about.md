@@ -1,5 +1,5 @@
 ---
-title: "About me"
+title: "Get to know us"
 template: "page"
 socialImage: "/media/image-2.jpg"
 ---

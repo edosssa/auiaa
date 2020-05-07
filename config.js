@@ -1,11 +1,11 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
+  url: 'https://auiaa.netlify.com',
   pathPrefix: '/',
-  title: 'Blog by John Doe',
+  title: 'Alumni Blog',
   subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
-  copyright: '© All rights reserved.',
+  copyright: `Copyright © ${new Date().getFullYear()} AUIAA`,
   disqusShortname: '',
   postsPerPage: 4,
   googleAnalyticsId: 'UA-73379983-2',
@@ -16,27 +16,27 @@ module.exports = {
       path: '/'
     },
     {
-      label: 'About me',
+      label: 'About',
       path: '/pages/about'
     },
     {
-      label: 'Contact me',
+      label: 'Contact',
       path: '/pages/contacts'
     }
   ],
   author: {
-    name: 'John Doe',
+    name: 'Alumni Blog',
     photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    bio: 'Thoughts, thoughts and more thoughts',
     contacts: {
       email: '',
       facebook: '#',
-      telegram: '#',
+      telegram: '',
       twitter: '#',
-      github: '#',
+      github: '',
       rss: '',
       vkontakte: '',
-      linkedin: '#',
+      linkedin: '',
       instagram: '#',
       line: '',
       gitlab: '',
