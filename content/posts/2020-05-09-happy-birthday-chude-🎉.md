@@ -2,7 +2,7 @@
 template: post
 title: Happy Birthday Chude 🎉
 slug: happy-birthday-chude
-draft: true
+draft: false
 date: 2020-05-09T11:55:00.599Z
 description: Chude is a terrible human being and I despise him like crazy, I'm
   not even kidding. Plus he sucks at FIFA
