@@ -4,7 +4,7 @@ module.exports = {
   url: 'https://auiaa.netlify.com',
   pathPrefix: '/',
   title: 'Alumni Blog',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  subtitle: 'Official blog of the Augustine University Alumni Associatio \'19',
   copyright: `Copyright © ${new Date().getFullYear()} AUIAA`,
   disqusShortname: '',
   postsPerPage: 4,
