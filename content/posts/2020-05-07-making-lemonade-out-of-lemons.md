@@ -38,6 +38,6 @@ Leaving nothing to chance, AUI has been monitoring the situation in the country 
 
 One of such ways to engage AUI students is the adoption of an online classroom scheme, bearing in mind that the suspension of formal education has contributed to the increase of idleness among students and worry among guardians/parents. By employing the on-line classroom initiative, the university is creating a safe and viable alternative to ensure the health of students and staff alike. With distance learning technology in place, schools like Augustine University can continue to operate within the safety of their own homes.  
 
-As AUI and the rest of world anticipate an end to this pandemic, everyone is encouraged to learn a new skill via YouTube as well as “foster family bonding and union with God”, according to the Vice-Chancellor of Augustine University Ilara, Professor S.O. Afolami.   
+As AUI and the rest of world anticipate an end to this pandemic, everyone is encouraged to learn a new skill, maintain proper hygiene as well as “foster family bonding and union with God”, according to the Vice-Chancellor of Augustine University Ilara, Professor S.O. Afolami.   
 
 ***\- Nwadinigwe Clara (ENG '19)***
