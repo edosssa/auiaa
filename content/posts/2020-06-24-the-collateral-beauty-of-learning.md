@@ -2,7 +2,7 @@
 template: post
 title: THE COLLATERAL BEAUTY OF LEARNING
 slug: The-collateral-beauty-of-learning
-draft: true
+draft: false
 date: 2020-06-24T13:43:58.058Z
 description: All my life, I have always had in-school learning. The only time I
   get to experience “online” education is in movies, and now that COVID-19 has
