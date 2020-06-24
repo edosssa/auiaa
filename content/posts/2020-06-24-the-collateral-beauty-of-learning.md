@@ -1,15 +1,17 @@
 ---
 template: post
-title: THE COLLATERAL BEAUTY OF LEARNING
-slug: The-collateral-beauty-of-learning
+title: "The Collateral Beauty Of Learning "
+slug: collateral-beauty-of-learning
 draft: false
 date: 2020-06-24T13:43:58.058Z
 description: All my life, I have always had in-school learning. The only time I
   get to experience “online” education is in movies, and now that COVID-19 has
   held the world hostage...
-category: AUI Update
+category: "STUDENT'S CORNER "
 tags:
-  - COVID-19 Online_learning
+  - COVID-19
+  - Online-learning
+  - Augustine University
 ---
 <!--\\[if gte mso 9]><xml><o:DocumentProperties><o:Revision>1</o:Revision><o:Pages>1</o:Pages><o:Lines>1</o:Lines><o:Paragraphs>1</o:Paragraphs></o:DocumentProperties></xml><!\\[endif]-->
 
