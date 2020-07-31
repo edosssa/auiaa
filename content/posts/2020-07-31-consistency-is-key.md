@@ -2,7 +2,7 @@
 template: post
 title: Consistency Is Key
 slug: consistency-is-key
-draft: true
+draft: false
 date: 2020-07-31T11:02:52.887Z
 description: >-
   Dear Reader, 
