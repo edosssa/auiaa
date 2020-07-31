@@ -17,7 +17,7 @@ Dear Reader,
 
 It gives me great pleasure to share the second edition of our AUIAA publication with you. 
 
-In this edition, we take a close look on the importance of face masks during this COVID-19 pandemic. The role of sex education in curbing sexual abuse is also discussed. 
+In this edition, we take a close look at the importance of face masks during this COVID-19 pandemic. The role of sex education in curbing sexual abuse is also discussed. 
 
 This edition also includes feature stories on two wonderful alumni- one with a passion for music and the other with a flair for entrepreneurship. 
 
