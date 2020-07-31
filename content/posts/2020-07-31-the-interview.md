@@ -11,13 +11,13 @@ tags:
   - CLARINET
   - ENTERTAINMENT
 ---
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -58,9 +58,9 @@ tags:
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="true"
   DefSemiHidden="true" DefQFormat="false" DefPriority="99"
   LatentStyleCount="267">
@@ -316,9 +316,9 @@ tags:
   <w:LsdException Locked="false" Priority="37" Name="Bibliography"/>
   <w:LsdException Locked="false" Priority="39" QFormat="true" Name="TOC Heading"/>
  </w:LatentStyles>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 10]>
+<!--\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -347,7 +347,7 @@ tags:
 	mso-bidi-font-family:"Times New Roman";
 	mso-bidi-theme-font:minor-bidi;}
 </style>
-<!\[endif]-->
+<!\\[endif]-->
 
 <!--StartFragment-->
 
@@ -375,6 +375,8 @@ The story behind the name isn’t so noteworthy. My friends in secondary school 
 
 Growing up in an African household with African parents, Nigerian to be precise, it wasn’t inconceivable that most parents will not support such profession. Surprisingly, that’s not my story. My family gave me their unwavering support under a condition that I acquire a bachelor’s degree in a relevant course, which I am proud to say I did. My sister, Blessing, got me my very first clarinet.
 
+![Emmanuel Agbo](/media/20200731_141206-1-.jpg "Emmanuel Agbo")
+
 **Who are the artists that inspire you?**
 
 There are a lot of amazing artists that inspire me, but to keep this interview short, I will name a few. Abiona Babajide, Eddie Daniels, Evan Christopher, Damola a.k.a. Demola the Violinist, Kenny G inspire me a lot.
@@ -394,6 +396,8 @@ There are countless challenges associated with being an instrumentalist. My pers
 **What’s that advice that has stuck with you and helped you on your journey so far?**
 
 The best advice I have gotten so far was given to me by both my peers, and mentors. They always kept saying and I quote “*EMMANUEL, NEVER STOP PLAYING NO MATTER WHAT”.*
+
+![Emmanuel Agbo 2](/media/agbo_blur-1-.jpg "Emmanuel Agbo 2")
 
 **Music aside, what other thing are you passionate about?**
 
