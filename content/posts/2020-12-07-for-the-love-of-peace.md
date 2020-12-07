@@ -2,8 +2,8 @@
 template: post
 title: For The Love Of Peace
 slug: for-the-love-of-peace
-draft: true
-date: 2020-12-07T02:07:30.782Z
+draft: false
+date: 2020-12-07T02:38:07.875Z
 description: Fear is the path to the dark side...
 category: SAFETY
 tags:
@@ -12,9 +12,7 @@ tags:
   - PROTESTS
   - "2020"
 ---
-
-
-> “Fear is the path to the dark side. Fear leads to anger. Anger leads to hate. Hate leads to suffering”. 
+> *“Fear is the path to the dark side. Fear leads to anger. Anger leads to hate. Hate leads to suffering”.* 
 
 This quote by the famous Star Wars character, Yoda summarizes our emotions and reality in these past months.
 
@@ -32,6 +30,6 @@ One way to go about it is not to clutter your mind with too many things. Step aw
 
 Interestingly, standing up to your oppressors can also bring you peace. Knowing that you have the power to go against anything or anyone that isn’t in support of your freedom is satisfaction in itself because using that power can bring a lot of desired changes. In other words, you sometimes need to fight for your peace. For instance, seeing how the Nigerian youth made a conscious effort to decry police harassment and demand an end to police brutality in the country through the #EndSARS protest suggests that change might just be around the corner. Now they are aware that they wield power, there seems to be hope for this nation. Just like J. Donald Walters said:
 
-> “you will find peace not by trying to escape your problems, but by confronting them courageously.”
+> *“you will find peace not by trying to escape your problems, but by confronting them courageously.”*
 
 ***\- Nwadinigwe Clara (ENG '19)***
