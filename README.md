@@ -1,2 +1,2 @@
 # AUIAA Blog 🎉
-Official blog of the Augustine University ALumni Association.
+Official blog of the Augustine University Alumni Association.
